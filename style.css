@@ -30,3 +30,8 @@ button{
 #images{
     margin-top:20px;
 }
+
+#images img{
+    width:80px;
+    margin:5px;
+}
